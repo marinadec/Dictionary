@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+
+<locales>
+	<locale id = "1">
+		<abbrev>ru</abbrev>
+		<locale_name>Russian</locale_name>
+	</locale>
+	<locale id = "2">
+		<abbrev>en</abbrev>
+		<locale_name>English</locale_name>
+	</locale>
+</locales>

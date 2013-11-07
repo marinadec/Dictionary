@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+
+<words>
+	<word id = "1">
+		<word_name>flower</word_name>
+		<part_of_speech>NOUN</part_of_speech>
+		<language_id>2</language_id>
+	</word>
+	<word id = "2">
+		<word_name>bright</word_name>
+		<part_of_speech>NOUN</part_of_speech>
+		<language_id>2</language_id>
+	</word>
+	<word id = "3">
+		<word_name>волк</word_name>
+		<part_of_speech>NOUN</part_of_speech>
+		<language_id>1</language_id>
+	</word>
+</words>

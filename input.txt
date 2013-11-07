@@ -1,0 +1,6 @@
+1 flower noun 2
+2 bright noun 2
+3 волк noun 1
+4 цветок noun 1
+5 €ркий adjective 1
+6 wolf noun 2

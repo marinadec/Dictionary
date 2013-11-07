@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+
+<translations>
+	<Translation id = "1">
+		<main_id>1</main_id>
+		<word_id>4</word_id>
+		<lang_id>2</lang_id>
+		<transl>plant, flower</transl>
+	</Translation>
+	<Translation id = "2">
+		<main_id>1</main_id>
+		<word_id>1</word_id>
+		<lang_id>1</lang_id>
+		<transl>растение, цветок</transl>
+	</Translation>
+	<Translation id = "3">
+		<main_id>6</main_id>
+		<word_id>3</word_id>
+		<lang_id>2</lang_id>
+		<transl>wolf</transl>
+	</Translation>
+	<Translation id = "4">
+		<main_id>2</main_id>
+		<word_id>2</word_id>
+		<lang_id>1</lang_id>
+		<transl>яркий</transl>
+	</Translation>
+	<Translation id = "5">
+		<main_id>2</main_id>
+		<word_id>5</word_id>
+		<lang_id>2</lang_id>
+		<transl>bright</transl>
+	</Translation>
+	<Translation id = "6">
+		<main_id>6</main_id>
+		<word_id>6</word_id>
+		<lang_id>1</lang_id>
+		<transl>волк</transl>
+	</Translation>
+</translations>
+	
